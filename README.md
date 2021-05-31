@@ -11,7 +11,7 @@
 
 ###### A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort ######
+ ###### By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort ######
 
 ![img](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 
@@ -35,3 +35,10 @@ My first impulse when I hit a roadblock is to immediately divert my attention to
 # Growing at work, and outside work too #
 
 ###### Maybe all this seems obvious to you, in which case, you’re lucky. For me, I’ve found that taking the time to assess what I’m doing is tremendously effective in keeping me on track at work. When I feel myself losing focus, I try to remember that short-term frustration will likely result in long-term improvement of my abilities – if I just stay with it. A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals ######
+  
+  # How to keep yourself in a growth mindset #
+  
+  
+  ###  View challenges as opportunities. ###
+  ### Try different learning tactics ###
+  ### Value the process over the end result ###
