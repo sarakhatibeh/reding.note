@@ -1,8 +1,7 @@
 # Markdown
 
-#### Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *. ####
-
-##### You can use Markdown most places around GitHub: #####
+#### Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+##### You can use Markdown most places around GitHub:
 
  1. Gists
 2. Comments in Issues and Pull Requests
@@ -10,4 +9,17 @@
   
   # GitHub Pages
   #### GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website ####
-  ![github](data:image/png;base64,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
+![github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+# Basic writing and formatting syntax
+
+#### Headings
+##### To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
+
+#### Styling text
+
+###### Bold 	** **
+###### Italic	 * *
+###### Strikethrough 	~~ ~
+###### Bold and nested italic 	** ** and _ 
+###### All bold and italic	*** ***
