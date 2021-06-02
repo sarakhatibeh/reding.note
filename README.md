@@ -7,6 +7,7 @@
 
 ![img](https://i1.wp.com/atlassianblog.wpengine.com/wp-content/uploads/2015/11/growth-mindset.png?w=1101&ssl=1)
 
+
 #### How you can benefit from a growth mindset ####
 ###### The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement. ######
 
