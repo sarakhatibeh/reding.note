@@ -55,6 +55,7 @@ If you put a number in quotes, it will be treated as a text string.
 ### JavaScript Arithmetic
 As with algebra, you can do arithmetic with JavaScript variables, using operators like = and +
 
+
 ### JavaScript Dollar Sign $
 Remember that JavaScript identifiers (names) must begin with:
 
