@@ -31,26 +31,26 @@ in the previous example there are several different elements. Each
 element has an opening tag and a closing tag
 Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 
-The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code
+The opening < html> tag indicates that anything between it and a closing < /html> tag is HTML code
 
-The <body> tag indicates that anything between it and the closing
-</body> tag should be shown inside the main browser window
+The < body> tag indicates that anything between it and the closing
+< /body> tag should be shown inside the main browser window
 
-Words between <h1> and </h1> are a main heading.
+Words between < h1> and < /h1> are a main heading.
 
-A paragraph of text appears between these <p> and </p> tags.
+A paragraph of text appears between these < p> and < /p> tags.
 
-Words between <h2> and </h2> form a sub-heading.
+Words between < h2> and  < /h2> form a sub-heading.
 
-Here is another paragraph between opening <p> and closing </p> tags.
+Here is another paragraph between opening < p> and closing < /p> tags.
 
-Another sub-heading inside <h2> and </h2> tags.
+Another sub-heading inside < h2> and < /h2> tags.
 
-Another paragraph inside <p> and </p> tags
+Another paragraph inside < p> and < /p> tags
 
-The closing </body> tag indicates the end of what should appear in the main browser window
+The closing < /body> tag indicates the end of what should appear in the main browser window
 
-The closing </html> tag indicates that it is the end of the HTML code.
+The closing < /html> tag indicates that it is the end of the HTML code.
 
 
   ## <p>
@@ -79,13 +79,13 @@ Most attribute values are either pre-defined or follow a stipulated format. We w
 
 #### <body>
 
-You met the <body> element in the first example we created.Everything inside this element is shown inside the main browser window.
+You met the < body> element in the first example we created.Everything inside this element is shown inside the main browser window.
 
 #### <head>
-Before the <body> element you will often see a <head> element.This contains information about the page .You will usually find a <title> element inside the <head> element
+Before the < body> element you will often see a < head> element.This contains information about the page .You will usually find a < title> element inside the < head> element
 
 #### <title>
-The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
+The contents of the < title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
 
 
@@ -121,34 +121,34 @@ of an element. It will only change their appearance if there is a CSS rule that 
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 
 Examples of block elements are
- * <h1>, <p>, <ul>, and <li>
+ * < h1>, < p>, < ul>, and < li>
 
 
 #### Inline Elements
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements
 
 Examples of inline elements are
-* <a>, <b>, <em>, and <img>
+* < a>, < b>, < em>, and < img>
 
 ### Grouping Text & Elements In a Block
 
 #### <div>
- The <div> element allows you to group a set of elements together in one block-level box.
+ The < div> element allows you to group a set of elements together in one block-level box.
 In a browser, the contents of the <div> element will start on a new line, but other than this it will make no difference to the presentation of the page.
 ### Grouping Text & Elements Inline
 
 #### <span>
-The <span> element acts like an inline equivalent of the <div> element. It is used to either:
+The < span> element acts like an inline equivalent of the <div> element. It is used to either:
 
 * Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
 
 * Contain a number of inline elements
 
-The most common reason why people use <span> elements is so that they can control the appearance of the content of these elements using CSS
+The most common reason why people use < span> elements is so that they can control the appearance of the content of these elements using CSS
 
-You will usually see that a class or id attribute is used with <span> elements:
+You will usually see that a class or id attribute is used with < span> elements:
 
-● To explain the purpose of this <span> element
+● To explain the purpose of this < span> element
 
 ● So that CSS styles can be applied to elements that have specific values for these attributes
 
@@ -157,7 +157,7 @@ You will usually see that a class or id attribute is used with <span> elements:
 
 An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
-An iframe is created using the <iframe> element. There are a few attributes that you will need to know to use it:
+An iframe is created using the < iframe> element. There are a few attributes that you will need to know to use it:
 * src
 
 The src attribute specifies the URL of the page to show in the frame.
@@ -172,9 +172,9 @@ The width attribute specifies the width of the iframe in pixels.
 
 ### Information About Your Pages
 #### <meta>
-The <meta> element livesinside the <head> element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is timesensitive, it can be set to expire.)
+The < meta> element livesinside the < head> element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is timesensitive, it can be set to expire.)
 
-The <meta> element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
+The < meta> element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 
 ### Escape Characters
 There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
@@ -184,47 +184,47 @@ Therefore, if you want these characters to appear on your page you need to use w
 
 ### Headers & Footers
 
-The <header> and <footer> elements can be used for:
+The < header> and < footer> elements can be used for:
 
 ● The main header or footer that appears at the top or bottom of every page on the site.
 
-● A header or footer for an individual <article> or <section> within the page
+● A header or footer for an individual < article> or < section> within the page
 
 ### Navigation
 #### <nav>
-The <nav> element is used to contain the major navigational
+The < nav> element is used to contain the major navigational
 blocks on the site such as the primary site navigation.
 
 
 ### Articles
 #### <article>
 
-The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+The < article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
 This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content
 
 ### ASIDES
 
-<aside>
+#### <aside>
 
-The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning
+The < aside> element has two purposes, depending on whether it is inside an < article> element or not. When the < aside> element is used inside an < article> element, it should contain information that is related to the article but not essential to its overall meaning
 
-When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
+When the < aside> element is used outside of an < article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
 
 ### Sections
 
 ##### <section>
-The <section> element groups related content together, and typically each section would have its own heading.
+The < section> element groups related content together, and typically each section would have its own heading.
 
 ### Heading Groups
 #### <hgroup>
 
-The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading
+The purpose of the < hgroup> element is to group together a set of one or more < h1> through < h6> elements so that they are treated as one single heading
 
 ### Figures
 ##### <figure> <figcaption>
 
-It is important to note that the article should still make sense if the content of the <figure> element were moved (to another part of the page, or even to adifferent page altogether).
+It is important to note that the article should still make sense if the content of the < figure> element were moved (to another part of the page, or even to adifferent page altogether).
 
 Examples of usage include:
 
