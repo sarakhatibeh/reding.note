@@ -1,3 +1,7 @@
+
+# HTML & JavaScript
+
+
 ## HTML 
 
 ### HTML Describes the Structure of Pages
@@ -31,26 +35,26 @@ in the previous example there are several different elements. Each
 element has an opening tag and a closing tag
 Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 
-The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code
+The opening < html> tag indicates that anything between it and a closing < /html> tag is HTML code
 
-The <body> tag indicates that anything between it and the closing
-</body> tag should be shown inside the main browser window
+The < body> tag indicates that anything between it and the closing
+< /body> tag should be shown inside the main browser window
 
-Words between <h1> and </h1> are a main heading.
+Words between < h1> and < /h1> are a main heading.
 
-A paragraph of text appears between these <p> and </p> tags.
+A paragraph of text appears between these < p> and < /p> tags.
 
-Words between <h2> and </h2> form a sub-heading.
+Words between < h2> and  < /h2> form a sub-heading.
 
-Here is another paragraph between opening <p> and closing </p> tags.
+Here is another paragraph between opening < p> and closing < /p> tags.
 
-Another sub-heading inside <h2> and </h2> tags.
+Another sub-heading inside < h2> and < /h2> tags.
 
-Another paragraph inside <p> and </p> tags
+Another paragraph inside < p> and < /p> tags
 
-The closing </body> tag indicates the end of what should appear in the main browser window
+The closing < /body> tag indicates the end of what should appear in the main browser window
 
-The closing </html> tag indicates that it is the end of the HTML code.
+The closing < /html> tag indicates that it is the end of the HTML code.
 
 
   ## <p>
@@ -79,13 +83,13 @@ Most attribute values are either pre-defined or follow a stipulated format. We w
 
 #### <body>
 
-You met the <body> element in the first example we created.Everything inside this element is shown inside the main browser window.
+You met the < body> element in the first example we created.Everything inside this element is shown inside the main browser window.
 
 #### <head>
-Before the <body> element you will often see a <head> element.This contains information about the page .You will usually find a <title> element inside the <head> element
+Before the < body> element you will often see a < head> element.This contains information about the page .You will usually find a < title> element inside the < head> element
 
 #### <title>
-The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
+The contents of the < title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
 
 
@@ -121,34 +125,34 @@ of an element. It will only change their appearance if there is a CSS rule that 
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 
 Examples of block elements are
- * <h1>, <p>, <ul>, and <li>
+ * < h1>, < p>, < ul>, and < li>
 
 
 #### Inline Elements
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements
 
 Examples of inline elements are
-* <a>, <b>, <em>, and <img>
+* < a>, < b>, < em>, and < img>
 
 ### Grouping Text & Elements In a Block
 
 #### <div>
- The <div> element allows you to group a set of elements together in one block-level box.
+ The < div> element allows you to group a set of elements together in one block-level box.
 In a browser, the contents of the <div> element will start on a new line, but other than this it will make no difference to the presentation of the page.
 ### Grouping Text & Elements Inline
 
 #### <span>
-The <span> element acts like an inline equivalent of the <div> element. It is used to either:
+The < span> element acts like an inline equivalent of the <div> element. It is used to either:
 
 * Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
 
 * Contain a number of inline elements
 
-The most common reason why people use <span> elements is so that they can control the appearance of the content of these elements using CSS
+The most common reason why people use < span> elements is so that they can control the appearance of the content of these elements using CSS
 
-You will usually see that a class or id attribute is used with <span> elements:
+You will usually see that a class or id attribute is used with < span> elements:
 
-● To explain the purpose of this <span> element
+● To explain the purpose of this < span> element
 
 ● So that CSS styles can be applied to elements that have specific values for these attributes
 
@@ -157,7 +161,7 @@ You will usually see that a class or id attribute is used with <span> elements:
 
 An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
-An iframe is created using the <iframe> element. There are a few attributes that you will need to know to use it:
+An iframe is created using the < iframe> element. There are a few attributes that you will need to know to use it:
 * src
 
 The src attribute specifies the URL of the page to show in the frame.
@@ -172,9 +176,9 @@ The width attribute specifies the width of the iframe in pixels.
 
 ### Information About Your Pages
 #### <meta>
-The <meta> element livesinside the <head> element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is timesensitive, it can be set to expire.)
+The < meta> element livesinside the < head> element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is timesensitive, it can be set to expire.)
 
-The <meta> element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
+The < meta> element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 
 ### Escape Characters
 There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
@@ -184,47 +188,47 @@ Therefore, if you want these characters to appear on your page you need to use w
 
 ### Headers & Footers
 
-The <header> and <footer> elements can be used for:
+The < header> and < footer> elements can be used for:
 
 ● The main header or footer that appears at the top or bottom of every page on the site.
 
-● A header or footer for an individual <article> or <section> within the page
+● A header or footer for an individual < article> or < section> within the page
 
 ### Navigation
 #### <nav>
-The <nav> element is used to contain the major navigational
+The < nav> element is used to contain the major navigational
 blocks on the site such as the primary site navigation.
 
 
 ### Articles
 #### <article>
 
-The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+The < article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
 This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content
 
 ### ASIDES
 
-<aside>
+#### <aside>
 
-The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning
+The < aside> element has two purposes, depending on whether it is inside an < article> element or not. When the < aside> element is used inside an < article> element, it should contain information that is related to the article but not essential to its overall meaning
 
-When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
+When the < aside> element is used outside of an < article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
 
 ### Sections
 
 ##### <section>
-The <section> element groups related content together, and typically each section would have its own heading.
+The < section> element groups related content together, and typically each section would have its own heading.
 
 ### Heading Groups
 #### <hgroup>
 
-The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading
+The purpose of the < hgroup> element is to group together a set of one or more < h1> through < h6> elements so that they are treated as one single heading
 
 ### Figures
 ##### <figure> <figcaption>
 
-It is important to note that the article should still make sense if the content of the <figure> element were moved (to another part of the page, or even to adifferent page altogether).
+It is important to note that the article should still make sense if the content of the < figure> element were moved (to another part of the page, or even to adifferent page altogether).
 
 Examples of usage include:
 
@@ -310,3 +314,96 @@ website
 
 ### WireFrames
 A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+A lot of designers will take the elements that need to appear on each page and start by creating wireframes. This involves sketching or shading areas where each element of the page will go (such as the logo, primary navigation, headings and main bodies of text, user logins etc).
+
+By creating a wireframe you can ensure that all of the information that needs to be on a page is included
+
+You should not include the color scheme, font choices, backgrounds or images for the website in the wireframe. It should focus on what
+information needs to be on each page and create a visual hierarchy to indicate the most important parts of each page.
+
+The wireframes make design easier because you know what information needs to appear on which page before considering how the the page should look. It can be very helpful to show the wireframes of a site to a client before showing them a design.
+
+It enables the client to ensure the site has all the functions and information it needs to offer
+
+
+
+
+
+## JavaScript
+JavaScript allows you to make the web page more interactive
+
+#### ACCESS CONTENT
+
+You can use JavaScript to select any element, attribute, or text from an HTML page . For example:
+
+Select the text inside all of the < hl> elements on a page
+
+• Select any elements that have a c1ass attribute with a value of note
+
+• Find out what was entered into a text input whose id attribute has a value of ema i 1
+
+#### MODIFY CONTENT
+You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:
+
+Add a paragraph of text after the first < hl> element 
+
+• Change the value of c 1 ass attributes to trigger new CSS rules for those elements
+
+• Change the size or position of an < i mg> element
+
+### SCRIPT
+
+A SCRIPT IS A SERIES OF INSTRUCTIONS
+A script is a series of instructions that a computer can follow to achieve a goal. 
+
+### WRITING A SCRIPT
+To write a script, you need to first state your goal and then list the
+tasks that need to be completed in order to achieve it.
+
+Start with the big picture of what you want to achieve, and breakthat down into smaller steps.
+
+1.  DEFINE THE GOAL
+ First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
+
+2.  DESIGN THE SCRIPT
+To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart.
+
+You can then write down individual steps that the computer needs to perform in order to complete each individual task (and any information it needs to perform the task), rather like writing a recipe that it can follow.
+
+3. CODE EACH STEP
+
+Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
+
+
+![img](https://monasalih.github.io/reading-notes/flow.PNG)
+
+
+![img](https://monasalih.github.io/reading-notes/flow1.PNG)
+
+
+Each time the script runs, it might only use a subset of all the instructions
+
+Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+
+### How Do Computers Fit In With The World Around Them
+
+#### COMPUTERS CREATE MODELS OF THE WORLD USING DATA
+
+####  OBJECTS (THINGS) In computer programming, each physical thing in the world can be represented as an object.
+
+#### Each object can have its own: • Properties • Events • Methods
+
+PROPERTIES (CHARACTERISTICS) Each property has a name and a value, and each of these name/value pairs tells you something about each individual instance of the object.
+
+### EVENTS In the real world, people interact with objects. These interactions can change the values of the properties in these objects.
+
+#### WHAT DOES AN EVENT DO? 
+Programmers choose which events they respond to. When a specific event happens, that event can be used to trigger a specific section of the code. Scripts often use different events to trigger different types of functionality. So a script will state which events the programmer wants to respond to, and what part of the script should be run when each of those events occur.
+
+### METHODS Methods represent things people need to do with objects. They can retrieve or update the values of an object’s properties.
+
+#### WHAT DOES A METHOD DO? 
+
+The code for a method can contain lots of instructions that together represent one task. When you use a method, you do not always need to know how it achieves its task; you just need to know how to ask the question and how to interpret any answers it gives you.
