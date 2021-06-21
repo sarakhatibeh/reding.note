@@ -175,4 +175,4 @@ Values in an array are accessed as if they are in a numbered list. It is importa
 
 ![img](picture\sa12.png)
 
-![img](picture\s23.png)
+![img](picture/s23.png)
