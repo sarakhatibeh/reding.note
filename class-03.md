@@ -168,11 +168,11 @@ An array is a special type of variable. It doesn't just store one value; it stor
 
 Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one). 
 
-![img](ssss.png)
+![img](picture\ssss.png)
 
 
-![img](sa1.png)
+![img](picture\sa1.png)
 
-![img](sa12.png)
+![img](picture\sa12.png)
 
-![img](s23.png)
+![img](picture\s23.png)
