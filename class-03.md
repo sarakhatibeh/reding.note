@@ -161,7 +161,7 @@ The values this property can take are:
 
 An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 
-![img](ssa.png)
+![img](picture\ssa.png)
 
 
 ## VALUES IN ARRAYS 
