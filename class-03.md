@@ -80,7 +80,7 @@ property with a value of hidden. The second example has the overflow property wi
 
 ## Border, Margin & Padding
 
-![img](sa.png)
+![img](picture/sa.png)
 
 ## Border Width
 
@@ -161,7 +161,7 @@ The values this property can take are:
 
 An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 
-![img](picture\ssa.png)
+![img](picture/ssa.png)
 
 
 ## VALUES IN ARRAYS 
