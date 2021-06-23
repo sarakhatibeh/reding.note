@@ -6,7 +6,7 @@
 
 ### This website contains information about  HTML , CSS and Java Script 
 
- ### Code 201 Reading Notes
+ ###  Code 201 Reading Notes
 
 | Name    |             Link                |
 |---------|---------------------------------|
