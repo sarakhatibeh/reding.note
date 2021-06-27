@@ -16,7 +16,7 @@
 | class-04 | [link4](https://sarakhatibeh.github.io/reding.note/class-04)                           |
 |class-05 | [link4](https://sarakhatibeh.github.io/reding.note/class-05)            |
 |class-06 | [link4](https://sarakhatibeh.github.io/reding.note/class-06)                               |
-|         |                                 |
+|class-07 | [link4](https://sarakhatibeh.github.io/reding.note/class-07)                                |
 |         |                                 |
 |         |                                 |
 |         |                                 |
