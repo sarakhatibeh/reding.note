@@ -13,7 +13,7 @@ to your site.
 * Submitting Forms: 
 * Uploading Files:
 
-![img](picture/9.1png)
+![img](picture/9.1.png)
 
 ![img](picture/9.2.png)
 
